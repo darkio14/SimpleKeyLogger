@@ -1,5 +1,5 @@
 # SimpleKeyLogger
-Demostracion del funcionamiento de un keylogger para la captura de las pulsaciones que se realizan en el teclado, para posteriormente memorizarlas en un fichero(TXT).
+Simple example of a keylogger's operation for capturing keystrokes performed on the keyboard, for later memorizing a file (.txt).
 IDE : Netbeans
 Java 8 Update 25
 
